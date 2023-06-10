@@ -1420,6 +1420,13 @@ body {
   margin-top: 60px;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
 .yb-margin-bottom-1 {
   margin-bottom: 30px;
 }
