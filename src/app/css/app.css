@@ -577,6 +577,12 @@ body {
   }
 }
 
+@media(max-width:1000px) {
+  #mwork .js-filter li {
+    width: 100% !important;
+  }
+}
+
 
 
 .yb-work-item-img-wrap:hover::before {
