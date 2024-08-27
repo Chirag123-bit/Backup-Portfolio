@@ -1485,3 +1485,9 @@ input::-webkit-inner-spin-button {
 .yb-dark-skin .uk-form-danger {
   border-color: #f0506e !important;
 }
+
+.cstm-hvr:hover #cstm-hvr{
+    color: #39f;
+    transition: 0.3s;
+    transition-timing-function:ease ;
+}
